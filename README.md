@@ -1,5 +1,5 @@
 # NO AI
 
-!["NO AI" sign](NO%20AI%20sign.png)
+<img src="NO%20AI%20sign.png" width="300">
 
 Symbols and signs to signal "NO AI"
